@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "node": "^19.3.0"
+  },
+  "name": "apiwebsite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MatthewELee/Public-API-Catalogue.git"
+  },
+  "author": "Matthew Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatthewELee/Public-API-Catalogue/issues"
+  },
+  "homepage": "https://github.com/MatthewELee/Public-API-Catalogue#readme",
+  "description": ""
+}
